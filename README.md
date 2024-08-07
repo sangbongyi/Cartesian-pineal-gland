@@ -3,9 +3,9 @@
 
 ## Introduction
 
-The project device has a flower-shaped antenna and a simple radio circuit. The antenna on the front receives radio waves around the device, like the recognition organ of a living organism. The detected signal passes through a radio circuit and is converted into a sound that audiences can hear. Through this signal, the audiences can recognize the footprints of the gigantic technological civilization that always exists around us.
+The name “Cartesian pineal gland” means Rene Descartes’s pineal gland. The pineal gland is a small organ inside of the brain and it produces melatonin which regulates sleep patterns. However, in the 17th century when renowned philosopher Rene Descartes lived, nobody knew what this organ was.
 
-The ecological or post-anthropocene perspective starts from awareness of our current situation. One of the various artificial traces created by humans is radio waves. It creates so many waves, so we can tell that we live in the radio waves civilization. By creating a device that is sonifying this huge ecological footprint, we can recognize the shock that is not captured by our senses.
+This apparatus uses Rene Descartes’s hypothesis about the pineal gland as text data and magnetic memory core as a storage device. It magnifies the physicality of data and information by showing intermingled points between intangible data and physical material.
 
 ![Cartesian pineal gland image 1](/assets/images/image_1.jpg)
 
