@@ -1,4 +1,4 @@
-# Cartesian-pineal-gland
+# Cartesian pineal gland
 **_Stepper motor controller that rotates an aluminum tube to fold/unfold the membrane antenna of the device. This code allows the Arduino-every board to operate a stepper motor to change the shape of the folding membrane of the antenna. While it folds, it changes the receiving radio frequency by changing the exposed surface of copper trace on the membrane. It also activates the TDA5767 radio module that receives an FM signal from the antenna._**
 
 ## Introduction
