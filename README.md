@@ -16,5 +16,5 @@ This device consists of the folding antenna and its structure and the radio circ
 ## Gallery
 ![Cartesian pineal gland image 3](/assets/images/image_2.jpg)
 ![Cartesian pineal gland image 4](/assets/images/image_3.jpg)
-![Cartesian pineal gland image 4](/assets/images/image_4.jpg)
-![Cartesian pineal gland image 4](/assets/images/image_5.jpg)
+![Cartesian pineal gland image 5](/assets/images/image_4.jpg)
+![Cartesian pineal gland image 6](/assets/images/image_5.jpg)
