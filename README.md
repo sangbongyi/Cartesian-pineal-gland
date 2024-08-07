@@ -10,7 +10,7 @@ The ecological or post-anthropocene perspective starts from awareness of our cur
 ![Cartesian pineal gland image 1](/assets/images/image_1.jpg)
 
 ## Interaction diagram
-This device consists of the folding antenna and its structure and the radio circuit which receives signals from a flower-shaped antenna. The folding antenna membrane has a copper trace on the surface. This conductive part gets the radio wave signal in the air and enables the circuit to play the FM signal. The membrane folds by itself since its origami structure and the stepper motor behind the holding frame rotate the axis that the folding membrane is bound.  By adjusting the surface of the conductive part on the antenna, the radio catches different radio wave signals in the air.
+It transmits a character by a character from texts written by Descartes as an input into the device. The control module converts them to ASCII binary code and sends one bit of data to each memory core. Then generated signals flip the magnetic polarity of memory cores and induce voltage from it. These voltage spikes from the memory core turn on the electronic magnet and magnetic flux around the electromagnet distort laser reflection on the surface.
 ![Cartesian pineal gland image 2](/assets/images/diagram.png)
 
 ## Gallery
