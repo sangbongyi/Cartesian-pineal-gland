@@ -1,3 +1,18 @@
+/* 
+  Cartesian pineal gland project
+  Copyright (c) 2024 Sangbong Lee <sangbong@me.com>
+  
+  * This installation has two different devices. the first one is an LCD module, and the second is a magnetic memory module.
+  * First, the LCD / ASCII data controller converts a character into an 8-bit binary and transmits it to the memory core module. 
+  * The code for the display module allows the Arduino to display text on the screen and it converts each character into ASCII one by one and sends it to the memory module. 
+  * Second, the magnetic memory module operates L293 to apply current to the wire passing through the ferrite core to store the binary data from the controller.
+  * Also, when the data is stored in the core, the induced voltage spike triggers an electromagnet and makes its magnetism generate laser diffraction.
+
+  This work is licensed under the Creative Commons Attribution 4.0 International License.
+  To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+*/
+
+// Library
 #include <Wire.h>
 
 // Relay signal pin
