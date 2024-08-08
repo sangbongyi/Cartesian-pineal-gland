@@ -11,7 +11,7 @@ This apparatus uses Rene Descartes’s hypothesis about the pineal gland as text
 
 ![Cartesian pineal gland image 1](/assets/images/image_1.jpg)
 
-Video link : https://vimeo.com/719442397
+Video link: https://vimeo.com/719442397
 
 ## Interaction diagram
 It transmits a character by a character from texts written by Descartes as an input into the device. The control module converts them to ASCII binary code and sends one bit of data to each memory core. Then generated signals flip the magnetic polarity of memory cores and induce voltage from it. These voltage spikes from the memory core turn on the electronic magnet and magnetic flux around the electromagnet distort laser reflection on the surface.
